@@ -1,0 +1,7 @@
+{
+  "ApiItem": {
+    "label": "View details for {id} API",
+    "docsLink": "docs",
+    "docsLabel": "View alchemy documentation for {id} API"
+  }
+}

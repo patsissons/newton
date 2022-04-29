@@ -1,0 +1,19 @@
+{
+  "api": [
+    {
+      "id": "eth_blockNumber",
+      "type": "jsonrpc",
+      "description": "Returns the number of the most recent block."
+    },
+    {
+      "id": "eth_getBlockByHash",
+      "type": "jsonrpc",
+      "description": "Returns information about a block by hash."
+    },
+    {
+      "id": "eth_getBlockByNumber",
+      "type": "jsonrpc",
+      "description": "Returns information about a block by block number."
+    }
+  ]
+}

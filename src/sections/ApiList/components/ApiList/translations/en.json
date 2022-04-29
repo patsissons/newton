@@ -1,0 +1,9 @@
+{
+  "ApiLlist": {
+    "title": "API list",
+    "ResourceList": {
+      "plural": "APIs",
+      "singular": "API"
+    }
+  }
+}
