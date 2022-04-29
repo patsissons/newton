@@ -1,3 +1,13 @@
+import {AppContext} from 'foundation/AppContext';
+import {AppFrame} from 'foundation/AppFrame';
+import {AppRoutes} from 'foundation/AppRoutes';
+
 export function App() {
-  return <h1>newton</h1>;
+  return (
+    <AppContext>
+      <AppFrame>
+        <AppRoutes />
+      </AppFrame>
+    </AppContext>
+  );
 }

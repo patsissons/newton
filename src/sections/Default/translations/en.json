@@ -1,0 +1,12 @@
+{
+  "Default": {
+    "Page": {
+      "title": "newton",
+      "subtitle": "The Alchemist"
+    },
+    "Card": {
+      "title": "web3 with Alchemy"
+    },
+    "description": "Explore the Alchemy API by running queries and inspecting the blockchain state."
+  }
+}
